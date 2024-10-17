@@ -173,6 +173,7 @@ local L = setmetatable({
     tmux = { M.hash },
     toml = { M.hash },
     twig = { M.twig, M.twig },
+    typespec = { M.cxx_l, M.cxx_b },
     typescript = { M.cxx_l, M.cxx_b },
     typescriptreact = { M.cxx_l, M.cxx_b },
     typst = { M.cxx_l, M.cxx_b },
